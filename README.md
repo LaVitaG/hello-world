@@ -1,2 +1,3 @@
 # hello-world
 My place for creating ...
+I'm visiting from doing my real work to learn something new and get ready for the next phase of my life.
